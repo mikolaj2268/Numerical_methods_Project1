@@ -1,12 +1,11 @@
 # Numerical_methods_Project1
 
-Projekt nr 1: Metoda Simspona obliczania przybliżonej wartości całki $\int_a^b w_n(x) dx$, gdzie $\w_n
-jest wielomianem reprezentowanym w bazie wielomianów Czebyszewa II-ego rodzaju:
-$w_n(x) =  $sum_{k=0}^{n}a_kU_k(x)$
+Project No. 1: Simpson's method for approximating the value of the integral $$\int_{a}^{b} w_n(x) \,dx$$, where w_n is a polynomial represented in the basis of Chebyshev polynomials of the second kind:
+$$w_n(x) = \sum_{k=0}^{n} a_kU_k(x)$$
+
+Project No. 2: Newton's ("three-eighths") method for approximating the value of the integral $$\int_{a}^{b} w_n(x) \,dx$$, where w_n is a polynomial represented in the basis of Chebyshev polynomials of the second kind:
+$$w_n(x) = \sum_{k=0}^{n} a_kU_k(x)$$
 
 
-Projekt nr 2: Metoda Newtona ("trzech ósmych") obliczania przybliżonej wartości całki \(\int_{a}^{b} w_n(x) \,dx\), gdzie \(\ w_n \)
-jest wielomianem reprezentowanym w bazie wielomianów Czebyszewa II-ego rodzaju:
-$\[\ w_n(x) =  \sum_{k=0}^{n} a_kU_k(x)  \]
 
-$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+
